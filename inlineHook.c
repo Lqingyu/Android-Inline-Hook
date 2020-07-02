@@ -1,7 +1,7 @@
 /*
 thumb16 thumb32 arm32 inlineHook
 author: ele7enxxh
-mail: ele7enxxh@qq.com
+mail: ele7enxxh@gmail.com
 website: ele7enxxh.com
 modified time: 2015-01-23
 created time: 2015-11-30
